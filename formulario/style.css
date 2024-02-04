@@ -1,10 +1,21 @@
-*{
+* {
+    margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    background-color: rgb(48, 43, 38);
     color: white;
 }
 
-.Login{
-  
+body {
+    background-color: rgba(0, 0, 46);
+}
+
+.Login {
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
+
+.Login form {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
 }
